@@ -5,7 +5,6 @@ Hacking Crypto code
 👋 Hi, I’m @Getqube
 👀 I’m interested in python and Money $$$$
 
-📫 How to reach me...
 -
 📫 How to reach me...
 
@@ -46,4 +45,4 @@ The code execution example is placed
 The price of the code for each currency is 3000 dollars, and if you buy 2 or more codes, you will get a 17% discount :))
 -
 -
-Make a purchase via email or Telegram ID
+- Make a purchase via email or Telegram ID
