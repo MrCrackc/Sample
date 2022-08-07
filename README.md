@@ -37,8 +37,9 @@ Seller of Python codes
 
 
 
+![efd](https://user-images.githubusercontent.com/110783917/183315094-f9a0ec21-789b-4f55-9e4f-904050ac866c.png)
 
-https://user-images.githubusercontent.com/110783917/183306151-3871021a-d597-4922-bea4-46d37da99b84.mp4
+
 
 The code execution example is placed
 --
