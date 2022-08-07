@@ -17,19 +17,19 @@ TELEGRAM :
 
 Seller of Python codes
 --
--Codes for checking and hacking the Ripple network (XRP)
+- Codes for checking and hacking the Ripple network (XRP)
 
--Codes for checking and hacking the Dash network (DASH)
+- Codes for checking and hacking the Dash network (DASH)
 
--Codes to check and hack the Dogecoin network (DOGE)
+- Codes to check and hack the Dogecoin network (DOGE)
 
--Codes for checking and hacking Nano network (XNO)
+- Codes for checking and hacking Nano network (XNO)
 
--Codes to check and hack the LITCOIN network (LTC)
+- Codes to check and hack the LITCOIN network (LTC)
 
--Codes to check and hack Algorand network (ALGO)
+- Codes to check and hack Algorand network (ALGO)
 
--Codes to check and hack the Ethereum network (ETH)
+- Codes to check and hack the Ethereum network (ETH)
 
 - Codes for checking and hacking the SOLANA network (SOL)
 
